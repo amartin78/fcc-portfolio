@@ -1,0 +1,92 @@
+a {
+  color: #555;
+}
+
+body {
+  font-size: 180%;
+  color: #555;
+}
+
+form {
+/*   padding: 0 80px; */
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+#about {
+  background-color: #F5F3EE;
+  padding: 35px;
+}
+
+#contact {
+  background-color: #F5F3EE;
+/*   padding: 50px; */
+}
+
+#footer {
+  background-color: #7D1935;
+  color: #555;
+  padding: 50px;
+}
+
+#img-byc-dess {
+  width: 640px;
+  height: 170px;
+}
+
+#img-profile {
+  margin: auto;
+}
+
+#img-sampleapp {
+  border: 1px solid #222;
+}
+
+#projects {
+  padding: 10px;
+  background-color: #F5F3EE;
+}
+
+.control {
+  background-color: #4A96AD;
+  color: #FFF;
+}
+
+.container-fluid {
+  width: 90%;
+}
+
+.navbar {
+  background-color: #7D1935;
+}
+
+.round-image {
+  border: 2px solid #555;
+  border-radius: 50%;
+}
+
+.row {
+  margin: 15px;
+  
+}
+.well {
+  background-color: #fff;
+  padding: 10px;
+}
+
+.well p {
+  font-size: 80%;
+  padding-top: 5px;
+  color: #555;
+}
